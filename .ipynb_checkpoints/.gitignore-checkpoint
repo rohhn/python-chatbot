@@ -1,4 +1,5 @@
-maildir
+maildir/
 enron_mail_20150507.tar
 .DS_Store
 .ipynb_checkpoints
+__pycache__

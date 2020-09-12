@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <s id="1">
+    <time id="T1S" value="00:00:38,367" />
+    <w id="1.1">THE</w>
+    <w id="1.2">TRlPLETS</w>
+    <w id="1.3">OF</w>
+    <w id="1.4">BELLEVlLLE</w>
+    <time id="T1E" value="00:00:43,282" />
+  </s>
+  <s id="2">
+    <time id="T2S" value="00:03:33,647" />
+    <w id="2.1">We</w>
+    <w id="2.2">apologize</w>
+    <w id="2.3">for</w>
+    <w id="2.4">this</w>
+    <w id="2.5">interruption</w>
+    <w id="2.6">...</w>
+    <time id="T2E" value="00:03:39,802" />
+  </s>
+  <s id="3">
+    <time id="T3S" value="00:03:39,967" />
+    <w id="3.1">Is</w>
+    <w id="3.2">the</w>
+    <w id="3.3">movie</w>
+    <w id="3.4">over</w>
+    <w id="3.5">?</w>
+    <time id="T3E" value="00:03:42,640" />
+  </s>
+  <s id="4">
+    <time id="T4S" value="00:03:42,847" />
+    <w id="4.1">Don'</w>
+    <w id="4.2">t</w>
+    <w id="4.3">you</w>
+    <w id="4.4">want</w>
+    <w id="4.5">to</w>
+    <w id="4.6">tell</w>
+    <w id="4.7">grandma</w>
+    <w id="4.8">?</w>
+    <time id="T4E" value="00:03:44,724" />
+  </s>
+  <s id="5">
+    <time id="T5S" value="00:03:44,887" />
+    <w id="5.1">Is</w>
+    <w id="5.2">the</w>
+    <w id="5.3">movie</w>
+    <w id="5.4">over</w>
+    <w id="5.5">?</w>
+    <time id="T5E" value="00:03:46,957" />
+  </s>
+  <s id="6">
+    <time id="T6S" value="00:03:59,847" />
+    <w id="6.1">We</w>
+    <w id="6.2">now</w>
+    <w id="6.3">continue</w>
+    <w id="6.4">with</w>
+    <w id="6.5">a</w>
+    <w id="6.6">musical</w>
+    <w id="6.7">interlude</w>
+    <w id="6.8">.</w>
+    <time id="T6E" value="00:04:03,522" />
+  </s>
+  <s id="7">
+    <time id="T7S" value="00:19:55,167" />
+    <w id="7.1">In</w>
+    <w id="7.2">this</w>
+    <w id="7.3">17th</w>
+    <w id="7.4">stage</w>
+    <w id="7.5">of</w>
+    <w id="7.6">the</w>
+    <w id="7.7">Tour</w>
+    <w id="7.8">de</w>
+    <w id="7.9">France</w>
+    <time id="T7E" value="00:19:58,398" />
+    <time id="T8S" value="00:19:58,567" />
+    <w id="7.10">the</w>
+    <w id="7.11">pack</w>
+    <w id="7.12">,</w>
+    <w id="7.13">the</w>
+    <w id="7.14">machine</w>
+    <w id="7.15">of</w>
+    <w id="7.16">muscles</w>
+    <w id="7.17">and</w>
+    <w id="7.18">steel</w>
+    <w id="7.19">,</w>
+    <w id="7.20">finally</w>
+    <w id="7.21">gets</w>
+    <w id="7.22">going</w>
+    <w id="7.23">.</w>
+    <time id="T8E" value="00:20:02,685" />
+  </s>
+  <s id="8">
+    <time id="T9S" value="00:20:02,847" />
+    <w id="8.1">But</w>
+    <w id="8.2">before</w>
+    <w id="8.3">the</w>
+    <w id="8.4">rubber</w>
+    <w id="8.5">tests</w>
+    <w id="8.6">the</w>
+    <w id="8.7">overheated</w>
+    <w id="8.8">paving-</w>
+    <w id="8.9">stones</w>
+    <w id="8.10">of</w>
+    <w id="8.11">Marseille</w>
+    <w id="8.12">,</w>
+    <time id="T9E" value="00:20:07,398" />
+    <time id="T10S" value="00:20:07,567" />
+    <w id="8.13">these</w>
+    <w id="8.14">young</w>
+    <w id="8.15">lads</w>
+    <w id="8.16">still</w>
+    <w id="8.17">have</w>
+    <w id="8.18">many</w>
+    <w id="8.19">obstacles</w>
+    <w id="8.20">to</w>
+    <w id="8.21">face</w>
+    <w id="8.22">.</w>
+    <time id="T10E" value="00:20:12,561" />
+  </s>
+  <s id="9">
+    <time id="T11S" value="00:20:30,727" />
+    <w id="9.1">And</w>
+    <w id="9.2">a</w>
+    <w id="9.3">fantastic</w>
+    <w id="9.4">escape</w>
+    <w id="9.5">by</w>
+    <w id="9.6">the</w>
+    <w id="9.7">yellow</w>
+    <w id="9.8">jersey</w>
+    <w id="9.9">,</w>
+    <time id="T11E" value="00:20:34,197" />
+    <time id="T12S" value="00:20:34,447" />
+    <w id="9.10">who</w>
+    <w id="9.11">devours</w>
+    <w id="9.12">Klaut</w>
+    <w id="9.13">and</w>
+    <w id="9.14">Glutman</w>
+    <w id="9.15">of</w>
+    <w id="9.16">the</w>
+    <w id="9.17">canned</w>
+    <w id="9.18">food</w>
+    <w id="9.19">factory</w>
+    <w id="9.20">from</w>
+    <w id="9.21">Frankfurt</w>
+    <w id="9.22">.</w>
+    <time id="T12E" value="00:20:38,440" />
+  </s>
+  <s id="10">
+    <time id="T13S" value="00:20:38,607" />
+    <w id="10.1">They'</w>
+    <w id="10.2">il</w>
+    <w id="10.3">have</w>
+    <w id="10.4">a</w>
+    <w id="10.5">hard</w>
+    <w id="10.6">time</w>
+    <w id="10.7">catching</w>
+    <w id="10.8">up</w>
+    <time id="T13E" value="00:20:41,326" />
+    <time id="T14S" value="00:20:41,607" />
+    <w id="10.9">on</w>
+    <w id="10.10">the</w>
+    <w id="10.11">spot</w>
+    <w id="10.12">where</w>
+    <w id="10.13">they</w>
+    <w id="10.14">already</w>
+    <w id="10.15">failed</w>
+    <w id="10.16">miserably</w>
+    <w id="10.17">last</w>
+    <w id="10.18">year</w>
+    <w id="10.19">,</w>
+    <time id="T14E" value="00:20:45,486" />
+  </s>
+  <s id="11">
+    <time id="T15S" value="00:20:45,647" />
+    <w id="11.1">When</w>
+    <w id="11.2">they</w>
+    <w id="11.3">really</w>
+    <w id="11.4">had</w>
+    <w id="11.5">to</w>
+    <w id="11.6">bite</w>
+    <w id="11.7">the</w>
+    <w id="11.8">bullet</w>
+    <w id="11.9">.</w>
+    <time id="T15E" value="00:20:49,845" />
+  </s>
+  <s id="12">
+    <time id="T16S" value="00:20:50,007" />
+    <w id="12.1">How</w>
+    <w id="12.2">admirable</w>
+    <w id="12.3">this</w>
+    <w id="12.4">fierce</w>
+    <w id="12.5">endurance</w>
+    <w id="12.6">is</w>
+    <time id="T16E" value="00:20:52,601" />
+  </s>
+  <s id="13">
+    <time id="T17S" value="00:20:52,887" />
+    <w id="13.1">On</w>
+    <w id="13.2">the</w>
+    <w id="13.3">face</w>
+    <w id="13.4">of</w>
+    <w id="13.5">this</w>
+    <w id="13.6">great</w>
+    <w id="13.7">eagle</w>
+    <w id="13.8">.</w>
+    <time id="T17E" value="00:20:55,447" />
+  </s>
+  <s id="14">
+    <time id="T18S" value="00:23:00,607" />
+    <w id="14.1">The</w>
+    <w id="14.2">very</w>
+    <w id="14.3">top</w>
+    <w id="14.4">lies</w>
+    <w id="14.5">at</w>
+    <w id="14.6">an</w>
+    <w id="14.7">altitude</w>
+    <w id="14.8">of</w>
+    <w id="14.9">1912</w>
+    <w id="14.10">metres</w>
+    <w id="14.11">,</w>
+    <time id="T18E" value="00:23:04,077" />
+    <time id="T19S" value="00:23:04,247" />
+    <w id="14.12">the</w>
+    <w id="14.13">horrible</w>
+    <w id="14.14">Ventoux</w>
+    <w id="14.15">,</w>
+    <w id="14.16">an</w>
+    <w id="14.17">impressive</w>
+    <w id="14.18">scenery</w>
+    <time id="T19E" value="00:23:07,045" />
+    <time id="T20S" value="00:23:07,207" />
+    <w id="14.19">of</w>
+    <w id="14.20">white</w>
+    <w id="14.21">desert</w>
+    <w id="14.22">,</w>
+    <w id="14.23">under</w>
+    <w id="14.24">a</w>
+    <w id="14.25">burning</w>
+    <w id="14.26">sun</w>
+    <w id="14.27">.</w>
+    <time id="T20E" value="00:23:10,517" />
+  </s>
+  <s id="15">
+    <time id="T21S" value="00:23:10,687" />
+    <w id="15.1">They</w>
+    <w id="15.2">climb</w>
+    <w id="15.3">standing</w>
+    <w id="15.4">on</w>
+    <w id="15.5">the</w>
+    <w id="15.6">pedals</w>
+    <w id="15.7">,</w>
+    <time id="T21E" value="00:23:12,405" />
+  </s>
+  <s id="16">
+    <time id="T22S" value="00:23:12,687" />
+    <w id="16.1">Constantly</w>
+    <w id="16.2">watching</w>
+    <w id="16.3">their</w>
+    <w id="16.4">gear</w>
+    <w id="16.5">ratio</w>
+    <w id="16.6">,</w>
+    <w id="16.7">It</w>
+    <w id="16.8">is</w>
+    <w id="16.9">hell</w>
+    <w id="16.10">.</w>
+    <time id="T22E" value="00:23:15,247" />
+  </s>
+  <s id="17">
+    <time id="T23S" value="00:23:15,887" />
+    <w id="17.1">But</w>
+    <w id="17.2">before</w>
+    <w id="17.3">they</w>
+    <w id="17.4">reach</w>
+    <w id="17.5">the</w>
+    <w id="17.6">finish</w>
+    <w id="17.7">,</w>
+    <time id="T23E" value="00:23:17,923" />
+    <time id="T24S" value="00:23:18,087" />
+    <w id="17.8">they</w>
+    <w id="17.9">work</w>
+    <w id="17.10">themselves</w>
+    <w id="17.11">into</w>
+    <w id="17.12">a</w>
+    <w id="17.13">sweat</w>
+    <w id="17.14">,</w>
+    <time id="T24E" value="00:23:21,636" />
+    <time id="T25S" value="00:23:21,927" />
+    <w id="17.15">and</w>
+    <w id="17.16">leave</w>
+    <w id="17.17">behind</w>
+    <w id="17.18">that</w>
+    <w id="17.19">musky</w>
+    <w id="17.20">smell</w>
+    <w id="17.21">,</w>
+    <time id="T25E" value="00:23:24,600" />
+  </s>
+  <s id="18">
+    <time id="T26S" value="00:23:24,887" />
+    <w id="18.1">That</w>
+    <w id="18.2">supporters</w>
+    <w id="18.3">know</w>
+    <w id="18.4">so</w>
+    <w id="18.5">well</w>
+    <w id="18.6">.</w>
+    <time id="T26E" value="00:23:26,878" />
+  </s>
+  <s id="19">
+    <time id="T27S" value="00:23:33,247" />
+    <w id="19.1">The</w>
+    <w id="19.2">pack</w>
+    <w id="19.3">sink</w>
+    <w id="19.4">into</w>
+    <w id="19.5">oblivion</w>
+    <w id="19.6">.</w>
+    <time id="T27E" value="00:23:36,478" />
+  </s>
+  <s id="20">
+    <time id="T28S" value="00:23:36,647" />
+    <w id="20.1">For</w>
+    <w id="20.2">some</w>
+    <w id="20.3">the</w>
+    <w id="20.4">bell</w>
+    <w id="20.5">already</w>
+    <w id="20.6">sounds</w>
+    <w id="20.7">And</w>
+    <w id="20.8">they</w>
+    <w id="20.9">give</w>
+    <w id="20.10">up</w>
+    <w id="20.11">.</w>
+    <time id="T28E" value="00:23:40,083" />
+  </s>
+  <s id="21">
+    <time id="T29S" value="00:23:40,247" />
+    <w id="21.1">Those</w>
+    <w id="21.2">who</w>
+    <w id="21.3">can</w>
+    <w id="21.4">not</w>
+    <w id="21.5">really</w>
+    <w id="21.6">pound</w>
+    <w id="21.7">the</w>
+    <w id="21.8">pedals</w>
+    <w id="21.9">,</w>
+    <time id="T29E" value="00:23:43,876" />
+  </s>
+  <s id="22">
+    <time id="T30S" value="00:23:44,167" />
+    <w id="22.1">lose</w>
+    <w id="22.2">pace</w>
+    <w id="22.3">,</w>
+    <w id="22.4">fall</w>
+    <w id="22.5">behind</w>
+    <w id="22.6">,</w>
+    <time id="T30E" value="00:23:47,557" />
+    <time id="T31S" value="00:23:48,287" />
+    <w id="22.7">vanish</w>
+    <w id="22.8">into</w>
+    <w id="22.9">nothingness</w>
+    <w id="22.10">.</w>
+    <time id="T31E" value="00:23:50,437" />
+  </s>
+  <s id="23">
+    <time id="T32S" value="00:24:23,367" />
+    <w id="23.1">Together</w>
+    <w id="23.2">with</w>
+    <w id="23.3">a</w>
+    <w id="23.4">dazzling</w>
+    <w id="23.5">speed</w>
+    <w id="23.6">comes</w>
+    <w id="23.7">the</w>
+    <w id="23.8">liberating</w>
+    <w id="23.9">descent</w>
+    <time id="T32E" value="00:24:26,996" />
+    <time id="T33S" value="00:24:27,287" />
+    <w id="23.10">to</w>
+    <w id="23.11">Marseille</w>
+    <w id="23.12">.</w>
+    <time id="T33E" value="00:24:28,925" />
+  </s>
+  <s id="24">
+    <time id="T34S" value="00:24:37,567" />
+    <w id="24.1">Keep</w>
+    <w id="24.2">going</w>
+    <w id="24.3">,</w>
+    <w id="24.4">my</w>
+    <w id="24.5">boy</w>
+    <w id="24.6">!</w>
+    <time id="T34E" value="00:24:40,161" />
+  </s>
+  <s id="25">
+    <time id="T35S" value="00:26:57,887" />
+    <w id="25.1">Insurance</w>
+    <w id="25.2">company</w>
+    <w id="25.3">"</w>
+    <w id="25.4">The</w>
+    <w id="25.5">Pigeon</w>
+    <w id="25.6">"</w>
+    <w id="25.7">gives</w>
+    <w id="25.8">away</w>
+    <w id="25.9">a</w>
+    <w id="25.10">whole</w>
+    <w id="25.11">week’</w>
+    <w id="25.12">s</w>
+    <w id="25.13">free</w>
+    <w id="25.14">insurance</w>
+    <time id="T35E" value="00:27:01,084" />
+    <time id="T36S" value="00:27:01,247" />
+    <w id="25.15">for</w>
+    <w id="25.16">the</w>
+    <w id="25.17">best</w>
+    <w id="25.18">sprinter</w>
+    <w id="25.19">.</w>
+    <time id="T36E" value="00:27:03,158" />
+  </s>
+  <s id="26">
+    <time id="T37S" value="00:27:03,327" />
+    <w id="26.1">Yes</w>
+    <w id="26.2">,</w>
+    <w id="26.3">that'</w>
+    <w id="26.4">s</w>
+    <w id="26.5">right</w>
+    <w id="26.6">,</w>
+    <w id="26.7">for</w>
+    <w id="26.8">free</w>
+    <w id="26.9">,</w>
+    <w id="26.10">for</w>
+    <w id="26.11">his</w>
+    <w id="26.12">bicycle</w>
+    <w id="26.13">.</w>
+    <time id="T37E" value="00:27:06,524" />
+  </s>
+  <s id="27">
+    <time id="T38S" value="00:34:56,407" />
+    <w id="27.1">My</w>
+    <w id="27.2">box</w>
+    <w id="27.3">!</w>
+  </s>
+  <s id="28">
+    <w id="28.1">That'</w>
+    <w id="28.2">s</w>
+    <w id="28.3">my</w>
+    <w id="28.4">box</w>
+    <w id="28.5">!</w>
+  </s>
+  <s id="29">
+    <w id="29.1">Give</w>
+    <w id="29.2">me</w>
+    <w id="29.3">back</w>
+    <w id="29.4">my</w>
+    <w id="29.5">box</w>
+    <w id="29.6">!</w>
+    <time id="T38E" value="00:34:59,877" />
+  </s>
+  <s id="30">
+    <time id="T39S" value="00:35:00,047" />
+    <w id="30.1">Is</w>
+    <w id="30.2">that</w>
+    <w id="30.3">your</w>
+    <w id="30.4">dog</w>
+    <w id="30.5">?</w>
+    <time id="T39E" value="00:35:01,321" />
+  </s>
+  <s id="31">
+    <time id="T40S" value="00:35:01,847" />
+    <w id="31.1">I</w>
+    <w id="31.2">don’</w>
+    <w id="31.3">t</w>
+    <w id="31.4">believe</w>
+    <w id="31.5">it</w>
+    <w id="31.6">!</w>
+  </s>
+  <s id="32">
+    <w id="32.1">The</w>
+    <w id="32.2">nerve</w>
+    <w id="32.3">!</w>
+    <time id="T40E" value="00:35:04,156" />
+  </s>
+  <s id="33">
+    <time id="T41S" value="00:35:04,447" />
+    <w id="33.1">She</w>
+    <w id="33.2">now</w>
+    <w id="33.3">has</w>
+    <w id="33.4">my</w>
+    <w id="33.5">box</w>
+    <w id="33.6">and</w>
+    <w id="33.7">the</w>
+    <w id="33.8">dog</w>
+    <w id="33.9">!</w>
+    <time id="T41E" value="00:35:06,915" />
+  </s>
+  <s id="34">
+    <time id="T42S" value="00:35:07,087" />
+    <w id="34.1">Here</w>
+    <w id="34.2">,</w>
+    <w id="34.3">stuff</w>
+    <w id="34.4">this</w>
+    <w id="34.5">!</w>
+    <time id="T42E" value="00:35:10,397" />
+  </s>
+  <s id="35">
+    <time id="T43S" value="00:45:38,167" />
+    <w id="35.1">Dried</w>
+    <w id="35.2">tadpoles</w>
+    <time id="T43E" value="00:45:39,964" />
+  </s>
+  <s id="36">
+    <time id="T44S" value="00:52:24,847" />
+    <w id="36.1">Get</w>
+    <w id="36.2">out</w>
+    <w id="36.3">.</w>
+    <time id="T44E" value="00:52:26,758" />
+  </s>
+  <s id="37">
+    <time id="T45S" value="00:52:38,687" />
+    <w id="37.1">And</w>
+    <w id="37.2">now</w>
+    <w id="37.3">:</w>
+  </s>
+  <s id="38">
+    <w id="38.1">The</w>
+    <w id="38.2">triplets</w>
+    <w id="38.3">of</w>
+    <w id="38.4">Belleville</w>
+    <w id="38.5">.</w>
+    <time id="T45E" value="00:52:41,281" />
+  </s>
+  <s id="39">
+    <time id="T46S" value="00:55:28,727" />
+    <w id="39.1">Another</w>
+    <w id="39.2">racer’</w>
+    <w id="39.3">s</w>
+    <w id="39.4">grave</w>
+    <w id="39.5">discovered</w>
+    <w id="39.6">.</w>
+  </s>
+  <s id="40">
+    <w id="40.1">Third</w>
+    <w id="40.2">in</w>
+    <w id="40.3">two</w>
+    <w id="40.4">months</w>
+    <w id="40.5">’</w>
+    <w id="40.6">time</w>
+    <time id="T46E" value="00:55:30,683" />
+  </s>
+  <s id="41">
+    <time id="T47S" value="00:55:32,807" />
+    <w id="41.1">Sinister</w>
+    <w id="41.2">details</w>
+    <time id="T47E" value="00:55:35,162" />
+  </s>
+  <s id="42">
+    <time id="T48S" value="00:55:37,447" />
+    <w id="42.1">Investigation</w>
+    <w id="42.2">got</w>
+    <w id="42.3">stuck</w>
+    <time id="T48E" value="00:55:38,766" />
+  </s>
+  <s id="43">
+    <time id="T49S" value="00:55:38,927" />
+    <w id="43.1">French</w>
+    <w id="43.2">Mafia</w>
+    <w id="43.3">denies</w>
+    <w id="43.4">everything</w>
+    <w id="43.5">!</w>
+    <time id="T49E" value="00:55:40,645" />
+  </s>
+  <s id="44">
+    <time id="T50S" value="01:11:53,327" />
+    <w id="44.1">BELLEVlLLE</w>
+    <w id="44.2">Thank</w>
+    <w id="44.3">you</w>
+    <w id="44.4">for</w>
+    <w id="44.5">your</w>
+    <w id="44.6">visit</w>
+    <w id="44.7">-</w>
+    <w id="44.8">Goodbye</w>
+    <time id="T50E" value="01:11:56,956" />
+  </s>
+  <s id="45">
+    <time id="T51S" value="01:12:06,767" />
+    <w id="45.1">Is</w>
+    <w id="45.2">the</w>
+    <w id="45.3">movie</w>
+    <w id="45.4">over</w>
+    <w id="45.5">?</w>
+    <time id="T51E" value="01:12:09,679" />
+  </s>
+  <s id="46">
+    <time id="T52S" value="01:12:09,847" />
+    <w id="46.1">Don'</w>
+    <w id="46.2">t</w>
+    <w id="46.3">you</w>
+    <w id="46.4">want</w>
+    <w id="46.5">to</w>
+    <w id="46.6">tell</w>
+    <w id="46.7">grandma</w>
+    <w id="46.8">?</w>
+  </s>
+  <s id="47">
+    <w id="47.1">Is</w>
+    <w id="47.2">the</w>
+    <w id="47.3">movie</w>
+    <w id="47.4">over</w>
+    <w id="47.5">?</w>
+    <time id="T52E" value="01:12:13,203" />
+  </s>
+  <s id="48">
+    <time id="T53S" value="01:12:21,047" />
+    <w id="48.1">It'</w>
+    <w id="48.2">s</w>
+    <w id="48.3">finished</w>
+    <w id="48.4">,</w>
+    <w id="48.5">grandma</w>
+    <w id="48.6">.</w>
+    <time id="T53E" value="01:12:23,402" />
+  </s>
+  <s id="49">
+    <time id="T54S" value="01:12:26,967" />
+    <w id="49.1">For</w>
+    <w id="49.2">my</w>
+    <w id="49.3">parents</w>
+    <w id="49.4">.</w>
+    <time id="T54E" value="01:12:30,482" />
+  </s>
+</document>
